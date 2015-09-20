@@ -22,7 +22,7 @@ Je m'amuse avec les styles, vous l'aurez compris, un peu d'italique, un peu de g
 * 1999 DUT Edition-Librairie
 * 1997 Bac Scientifique option Maths
 
-##Simplon 
+##Simplon pour le futur
 
 Très clairement, j'ai bien fait d'écouter France Inter cet été et surtout l'émission [Homo Numericus](http://www.franceinter.fr/emission-homo-numericus-coder-avec-erwan-kezzar) du dimanche 19 juillet 2015 avec Erwan Kezzar.
 C'est ce jour-là que j'ai découvert Simplon et, étant donné que je vais préparer un Titre Professionnel de Technicienne d'Assistance Informatique en 2016, j'ai décidé d'attendre la session suivante de formation à distance pour m'inscrire et foncer!!!
